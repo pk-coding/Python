@@ -10,6 +10,7 @@
 <li>Enter value for "session" cookie in line 19 - find it in Dev Tools in your browser.</li>
 <li>Enter value for "TrackingId" cookie in line 17 - find it in Dev Tools in your browser. This cookie is vulnerable to a Blind SQL injection attack..</li>
 <li>Type in your terminal: <code>python3 blind_sqli.py</code></li>
+<li>The password will be different each time.</li>
 </ul>
 <img width="944" alt="portswigger_blind_sqli_lab" src="https://github.com/user-attachments/assets/d5ce225c-e1c7-4b01-ba89-ac8b429ae85d">
 
