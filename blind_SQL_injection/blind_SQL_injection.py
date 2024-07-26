@@ -3,7 +3,7 @@ import time
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-dictionary = 'zxcvbnmasdfghjklqwertyuiop1234567890'
+dictionary = 'zxcvbnmasdfghjklqwertyuiopZXCVBNMASDFGHJKLQWERTYUIOP1234567890_-!@#$,.;:<>/'
 haslo = ""
 MyProxy = {'http':'http://127.0.0.1:8080/',
 'https':'http://127.0.0.1:8080'}
