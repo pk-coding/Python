@@ -6,7 +6,7 @@
 </ul>
 <h1>Use:</h1>
 <ul>
-<li>Just type <code>python3 my_decoder.py</code>code></li>
+<li>Just type <code>python3 my_decoder.py</code></li>
 <li>Enter encoded string (be careful not to copy spaces or other characters): 50ee074e527c3abc3980df55ea13f62788c74542c45b5efc27a4a11f7e6c1ad87bb6af1fe217e81b76248ae78f6b84</li>
 <li>Press Enter.</li>
 </ul>
