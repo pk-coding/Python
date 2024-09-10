@@ -12,10 +12,10 @@
 </ul>
 <img width="935" alt="decoder" src="https://github.com/user-attachments/assets/8dca8f36-0929-4eb2-9671-772f5c41c0c5">
 <h1>Notice:</h1>
-<div>
-<p>I can't provide the encoder code because I'm not its author and besides, it's part of a task available only to registered users.</p>
-  <p>But there are no contraindications to writing your own encoder based on my decoder, just as I wrote the discussed decoder based on the encoder :)</p>
-</div>
+<ul>
+<li>I can't provide the encoder code because I'm not its author and besides, it's part of a task available only to registered users.</li>
+<li>But there are no contraindications to writing your own encoder based on my decoder, just as I wrote the discussed decoder based on the encoder :)</li>
+</ul>
 <h1>Author:</h1>
 <ul>
 <li>Email: <em>ekontakt@wp.pl</em></li>
